@@ -35,20 +35,20 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: [`"Full Stack Developer",FrontEnd Developer", "WordPress Developer", "Freelancer"`],
+        strings: [`" Full Stack Developer ",FrontEnd Developer", "WordPress Developer", "Freelancer"`],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
     var typed = new Typed(".typing1", {
-        strings: [` " Spring Boot "  ,  " HTML "   ,    " CSS "  ,  " JavaScript "  , "React js"  ," Angular "  , " MongoDB ",  " MySQL ", " WordPress " , " Bootstrap "`],
+        strings: [` " Spring Boot "  ,  " HTML "   ,    " CSS "  ,  " JavaScript "  , "React js"  ," Angular "  , " MongoDB ",  " MySQL ", " WordPress " , " Bootstrap " , " Flutter "`],
         typeSpeed: 80,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: [`"FrontEnd Developer", "WordPress Developer"`],
+        strings: [` " Full Stack Developer ", " FrontEnd Developer ", "WordPress Developer"`],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
